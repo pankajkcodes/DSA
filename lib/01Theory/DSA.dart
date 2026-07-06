@@ -98,7 +98,7 @@
 │   │
 │   ├── MUST DO Problems
 │   │     ├── Binary Search
-│   │     ├── Search Insert Position
+│   │     ├── Search Insert Position ✅
 │   │     ├── First and Last Position ✅
 │   │     ├── Search in Rotated Sorted Array
 │   │     ├── Koko Eating Bananas
@@ -164,5 +164,33 @@
     ├── Step 6 → Timed Practice
     │
     └── Step 7 → Revision by Pattern
+
+🚀 15 HIGH-ROI INTERVIEW QUESTIONS
+│
+├── 1. ARRAYS / STRINGS → 35% 🔥
+│   ├── Two Sum
+│   ├── Longest Substring Without Repeating Characters
+│   ├── Move Zeroes
+│   ├── Maximum Subarray (Kadane’s Algorithm)
+│   └── Merge Intervals
+│
+├── 2. HASHMAP / SET → 25% 🔥
+│   ├── First Non-Repeating Character ✅
+│   ├── Valid Anagram
+│   ├── Subarray Sum Equals K
+│   └── Longest Consecutive Sequence
+│
+├── 3. STACK / QUEUE → 15% 🔥
+│   ├── Valid Parentheses
+│   └── Daily Temperatures ✅
+│
+├── 4. BINARY SEARCH → 15% 🔥
+│   ├── Binary Search ✅
+│   └── Search in Rotated Sorted Array
+│
+└── 5. LINKED LIST → 10% 🔥
+    ├── Reverse Linked List
+    └── Detect Cycle
+
 
  */
